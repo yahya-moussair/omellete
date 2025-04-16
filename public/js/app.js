@@ -195,9 +195,3 @@ console.log(`${yahya.name} put the ${pan_1.content.name} in ${pan_1.name} , with
 
 //^ use cook method
 pan_1.cook()
-
-
-
-
-
-
